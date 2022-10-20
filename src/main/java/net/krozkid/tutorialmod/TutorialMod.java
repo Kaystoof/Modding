@@ -28,7 +28,7 @@ public class TutorialMod
 
         MinecraftForge.EVENT_BUS.register(this);
     }
-
+//Test
     private void commonSetup(final FMLCommonSetupEvent event)
     {
         // Some common setup code
